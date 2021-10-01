@@ -1,0 +1,21 @@
+#greenBox{
+  background-color: green;
+}
+
+#blackBorder{
+  border: dotted black 2px;
+  margin: 20px;
+  padding-left: 10px;
+}
+
+#redText{
+  color: red;
+}
+
+#darkgreenText{
+  color: darkgreen;
+}
+
+#purpleText{
+  color: purple;
+}

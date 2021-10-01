@@ -1,0 +1,37 @@
+div{
+  border: dotted purple 2px;
+  font-size: 15px;
+  text-align: center;
+  padding-top: 200px;
+  padding-bottom: 10px;
+}
+
+#greenText{
+  font-size: 10px;
+  color: green;
+  text-align: center;
+}
+
+#orangeText{
+  font-size: 25px;
+  color: orange;
+  text-align: left;
+}
+
+#redText{
+  font-size: 25px;
+  color: red;
+  vertical-align: super;
+}
+
+#purpleText{
+  font-size: 10px;
+  color: purple;
+  text-align: right;
+}
+
+#yellowText{
+  font-size: 10px;
+  color: yellow;
+  text-align: right;
+}
