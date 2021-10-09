@@ -1,0 +1,32 @@
+#header{
+  background-color: red;
+  text-align: center;
+  height: 70px;
+  padding-top: 5px;
+  width: 1450px;
+}
+
+h2{
+  color: white;
+}
+
+#body{
+  background-color: green;
+  text-align: left;
+  height: 500px;
+  padding-top: 10px;
+  width: 1450px;
+}
+
+#footer{
+  background-color: blue;
+  text-align: left;
+  height: 70px;
+  padding-top: 10px;
+  margin-left: 0;
+  width: 1450px;
+}
+
+p{
+  color: white;
+}

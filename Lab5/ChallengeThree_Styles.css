@@ -1,0 +1,44 @@
+body{
+  background-color: white;
+}
+
+p{
+  margin: 0;
+}
+
+#wrapper{
+  background-color: green;
+  width: 1425px;
+  height: 765px;
+  position: relative;
+  margin: 0;
+}
+
+#left{
+  background-color: blue;
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  left: 18%;
+  top: 2%;
+  padding-top: 10px;
+}
+
+#middle{
+  background-color: yellow;
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  left: 41%;
+  top: 37%;
+}
+
+#right{
+  background-color: red;
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  right: 18%;
+  top: 2%;
+  padding-top: 10px;
+}
