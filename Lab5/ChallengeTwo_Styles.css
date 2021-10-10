@@ -2,38 +2,39 @@ body{
   background-color: green;
 }
 
-#wrapper{
+#wrapperOne{
   width: 850px;
-  margin: -20px auto;
+  margin: 0 auto;
 }
 
-#header{
+#headerRed{
   background-color: red;
   height: 100px;
   text-align: center;
+  margin: -22px auto;
 }
 
-#left{
+#leftPink{
   background-color: pink;
   width: 300px;
   height: 100px;
   float: left;
 }
 
-#right{
+#rightOrange{
   background-color: orange;
   width: 550px;
   height: 100px;
   float: right;
 }
 
-#middle{
+#middleBlue{
   background-color: blue;
   height: 600px;
 }
 
-#footer{
+#footerYellow{
   background-color: yellow;
-  height: 75px;
-  margin: -20px auto;
+  height: 95px;
+  margin: -22px auto;
 }

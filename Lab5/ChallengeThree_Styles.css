@@ -6,7 +6,7 @@ p{
   margin: 0;
 }
 
-#wrapper{
+#wrapperOne{
   background-color: green;
   width: 1425px;
   height: 765px;
@@ -14,7 +14,7 @@ p{
   margin: 0;
 }
 
-#left{
+#leftBlue{
   background-color: blue;
   width: 250px;
   height: 250px;
@@ -24,7 +24,7 @@ p{
   padding-top: 10px;
 }
 
-#middle{
+#middleYellow{
   background-color: yellow;
   width: 250px;
   height: 250px;
@@ -33,7 +33,7 @@ p{
   top: 37%;
 }
 
-#right{
+#rightRed{
   background-color: red;
   width: 250px;
   height: 250px;

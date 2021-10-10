@@ -1,4 +1,4 @@
-#header{
+#headerRed{
   background-color: red;
   text-align: center;
   height: 70px;
@@ -10,7 +10,7 @@ h2{
   color: white;
 }
 
-#body{
+#bodyGreen{
   background-color: green;
   text-align: left;
   height: 500px;
@@ -18,7 +18,7 @@ h2{
   width: 1450px;
 }
 
-#footer{
+#footerBlue{
   background-color: blue;
   text-align: left;
   height: 70px;
