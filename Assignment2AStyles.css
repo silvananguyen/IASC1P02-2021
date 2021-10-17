@@ -1,0 +1,70 @@
+body{
+  background-color: lavenderblush;
+  margin: 20px;
+  border: 3px dashed plum;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 1225px;
+}
+
+.magentaHeader{
+  font-family: "Lucida Console", "Courier New", monospace;
+  text-align: center;
+  color: darkmagenta;
+  text-transform: uppercase;
+}
+
+.blueHeader{
+  font-family: "Lucida Console", "Courier New", monospace;
+  text-align: left;
+  color: steelblue;
+  text-transform: uppercase;
+}
+
+.div1 li{
+  font-weight: bold;
+  font-size: 16px;
+  color: mediumvioletred;
+}
+
+.p1, .p3, .p5{
+  color: crimson;
+}
+
+.p2, .p4{
+  color: cornflowerblue;
+}
+
+.p6{
+  color: darkgoldenrod;
+}
+
+.div2 p{
+  color: darkcyan;
+}
+
+#pictureofTsuneo{
+  position: relative;
+  left: 220px;
+  border: 3px solid darkmagenta;
+}
+
+#pictureofJosee{
+  position: relative;
+  left: 220px;
+  border: 3px solid darkmagenta;
+}
+
+#theCat{
+  position: fixed;
+  border: 3px solid darkmagenta;
+  right: 0px;
+  bottom: 0px;
+}
+
+#kissScene{
+  position: absolute;
+  border: 3px solid darkmagenta;
+  left: 400px;
+  top: 5000px;
+}
