@@ -1,0 +1,210 @@
+body{
+  background-image: url(https://image.shutterstock.com/image-photo/stock-photo-trendy-pattern-of-colorful-sprinkles-for-background-of-design-banner-poster-flyer-card-postcard-250nw-1322343992.jpg);
+  background-size: auto;
+}
+
+#Wrapper {
+  width: 1430px;
+  margin: 0 auto;
+}
+
+#boxOne{
+  border: 3px solid white;
+  width: 1415px;
+}
+
+#cupcakeLogo{
+  width: 150px;
+  height: 150px;
+  margin-left: 10px;
+  margin-top: -160px;
+  position: absolute;
+}
+
+#cupcakelogoTwo{
+  width: 150px;
+  height: 150px;
+  margin-left: 1255px;
+  margin-top: -160px;
+  position: absolute;
+}
+
+#titleOne{
+  font-size: 65px;
+  font-family: "Didot", serif;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 8px #cc0066;
+}
+
+#boxTwo{
+  font-family: "Didot", serif;
+  text-align: center;
+  border: 3px solid #cc0066;
+  width: 150px;
+  height: 147px;
+}
+
+#boxThree{
+  font-family: "Didot", serif;
+  text-align: center;
+  border: 3px solid #cc0066;
+  width: 150px;
+  height: 147px;
+}
+
+#boxFour{
+  font-family: "Didot", serif;
+  text-align: center;
+  border: 3px solid #cc0066;
+  width: 778px;
+  height: 147px;
+}
+
+.pOne, .pTwo{
+  line-height: 0px;
+}
+
+#boxFive{
+  font-family: "Didot", serif;
+  text-align: center;
+  border: 3px solid #cc0066;
+  width: 150px;
+  height: 147px;
+}
+
+#boxSix{
+  font-family: "Didot", serif;
+  text-align: center;
+  border: 3px solid #cc0066;
+  width: 150px;
+  height: 147px;
+}
+
+.lineOne{
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    background-color: white;
+}
+
+#boxSeven{
+  font-family: "Didot", serif;
+  text-align: center;
+  border: 3px solid #cc0066;
+  width: 706px;
+  height: 200px;
+}
+
+#boxEight{
+  font-family: "Didot", serif;
+  text-align: center;
+  border: 3px solid #cc0066;
+  width: 705px;
+  height: 200px;
+}
+
+.lineTwo, .lineThree, .lineFour{
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 15px;
+    background-color: white;
+}
+
+#boxNine{
+  font-family: "Didot", serif;
+  text-align: center;
+  border: 3px solid #cc0066;
+  width: 706px;
+  height: 210px;
+}
+
+#boxTen{
+  font-family: "Didot", serif;
+  text-align: center;
+  border: 3px solid #cc0066;
+  width: 705px;
+  height: 210px;
+}
+
+#boxEleven{
+  font-family: "Didot", serif;
+  text-align: center;
+  border: 3px solid #cc0066;
+  width: 150px;
+  height: 147px;
+}
+
+#boxTwelve{
+  font-family: "Didot", serif;
+  text-align: center;
+  border: 3px solid #cc0066;
+  width: 150px;
+  height: 147px;
+}
+
+#boxThirteen{
+  font-family: "Didot", serif;
+  text-align: center;
+  border: 3px solid #cc0066;
+  background-color: white;
+  width: 778px;
+  height: 147px;
+}
+
+#boxFourteen{
+  font-family: "Didot", serif;
+  text-align: center;
+  border: 3px solid #cc0066;
+  width: 150px;
+  height: 147px;
+}
+
+#boxFifthteen{
+  font-family: "Didot", serif;
+  text-align: center;
+  border: 3px solid #cc0066;
+  width: 152px;
+  height: 147px;
+}
+
+#boxSixteen{
+  font-family: "Didot", serif;
+  text-align: center;
+  border: 3px solid white;
+  height: 240px;
+  width: 1420px;
+}
+
+#torontoLogo{
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  margin-left: -710px;
+  margin-top: 45px;
+}
+
+#torontologoTwo{
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  margin-left: 560px;
+  margin-top: 45px;
+}
+
+.titleTwo{
+  font-size: 25px;
+  color: white;
+  text-shadow: 2px 2px 8px #cc0066;
+}
+
+.pFour, .pFive{
+  line-height: 0px;
+  font-weight: bold;
+}
+
+button{
+  font-size: 18px;
+  margin: 3px;
+}
