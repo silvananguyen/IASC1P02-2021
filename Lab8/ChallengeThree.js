@@ -1,5 +1,5 @@
 //This will output when the page loads
-document.write("Zero");
+document.write("Ouput Zero Here");
 
 //This will output when a button is pressed
 function theRest(){
