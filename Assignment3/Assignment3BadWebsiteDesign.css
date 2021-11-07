@@ -62,7 +62,7 @@ body{
 }
 
 .pOne, .pTwo{
-  line-height: 0px;
+  line-height: 2.5px;
 }
 
 #boxFive{
@@ -199,8 +199,8 @@ body{
   text-shadow: 2px 2px 8px #cc0066;
 }
 
-.pFour, .pFive{
-  line-height: 0px;
+.pThree, .pFour{
+  line-height: 1.5px;
   font-weight: bold;
 }
 
