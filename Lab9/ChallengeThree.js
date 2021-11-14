@@ -1,9 +1,9 @@
 function newValue(){
-  var firstInput = document.getElementById("firstInput");
+  var firstInput = Number(document.getElementById("firstInput").value);
   console.log(firstInput);
-  var secondInput = document.getElementById("secondInput");
+  var secondInput = Number(document.getElementById("secondInput").value);
   console.log(secondInput);
-  var addition = Number(firstInput.value) + Number(secondInput.value);
+  var addition = firstInput + secondInput;
   console.log(addition);
   document.getElementById("outputValue").innerHTML = addition;
 }
