@@ -1,4 +1,4 @@
-//The javascript clock was taken from a tutorial called flexiple: https://flexiple.com/javascript-clock/.
+//The javascript clock was taken from a tutorial called flexiple: https://flexiple.com/javascript-clock/ on December 3.
 function currentTime() {
   let date = new Date();
   let hh = date.getHours();
@@ -25,7 +25,7 @@ function currentTime() {
   }
 currentTime();
 
-//The current date javascript was taken from a tutorial called Phoneix Nap: https://phoenixnap.com/kb/how-to-get-the-current-date-and-time-javascript.
+//The current date javascript was taken from a tutorial called Phoneix Nap: https://phoenixnap.com/kb/how-to-get-the-current-date-and-time-javascript on December 3.
 var today = new Date();
 var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
 document.getElementById("dateRN").innerText = date;

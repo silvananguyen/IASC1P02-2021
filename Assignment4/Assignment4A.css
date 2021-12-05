@@ -19,7 +19,7 @@ a{
   text-decoration: none;
 }
 
-/*The quiz was taken from a tutorial called sitepoint: https://www.sitepoint.com/simple-javascript-quiz/.*/
+/*The quiz was taken from a tutorial called sitepoint: https://www.sitepoint.com/simple-javascript-quiz/ on December 3.*/
 .quiz{
   color: white;
   font-size: 25px;
@@ -32,7 +32,7 @@ a{
   text-align: center;
 }
 
-/*The glitch effect was taken from a tutorial called Coding Nepal: https://www.codingnepalweb.com/text-glitch-effect-html-css/.*/
+/*The glitch effect was taken from a tutorial called Coding Nepal: https://www.codingnepalweb.com/text-glitch-effect-html-css/ on December 3.*/
 .content{
   width: 100%;
   height: 100%;
@@ -260,7 +260,7 @@ a{
   margin-bottom: 60px;
 }
 
-/*The javascript clock was taken from a tutorial called flexiple: https://flexiple.com/javascript-clock/.*/
+/*The javascript clock was taken from a tutorial called flexiple: https://flexiple.com/javascript-clock/ on December 3.*/
 #clockRN{
   color: white;
   font-size: 25px;
@@ -268,7 +268,7 @@ a{
   margin-bottom: -29px;
 }
 
-/*The current date javascript was taken from a tutorial called Phoneix Nap: https://phoenixnap.com/kb/how-to-get-the-current-date-and-time-javascript.*/
+/*The current date javascript was taken from a tutorial called Phoneix Nap: https://phoenixnap.com/kb/how-to-get-the-current-date-and-time-javascript on December 3.*/
 #dateRN{
   color: white;
   font-size: 25px;

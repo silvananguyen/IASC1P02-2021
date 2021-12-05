@@ -2,7 +2,7 @@ body{
   background-color: #141414;
 }
 
-/*The special CSS effect on the word "Netflix" was taken from a tutorial by @ryandsouza13 on Codepen: https://codepen.io/ryandsouza13/pen/yEBJQVb*/
+/*The special CSS effect on the word "Netflix" was taken from a tutorial by @ryandsouza13 on Codepen: https://codepen.io/ryandsouza13/pen/yEBJQVb on December 3.*/
 .netflixText{
   position: absolute;
   top: 25%;
@@ -38,7 +38,7 @@ body{
   color: white;
 }
 
-#profilePic{
+.profilePic{
   width: 200px;
   height: 200px;
   margin-left: 30px;
@@ -48,7 +48,7 @@ body{
 .profileName{
   width: 100%;
   text-align: center;
-  word-spacing: 210px;
+  word-spacing: 200px;
 }
 
 .profileName h3{
