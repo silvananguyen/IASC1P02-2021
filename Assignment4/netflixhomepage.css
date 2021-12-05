@@ -1,0 +1,80 @@
+body{
+  background-color: #141414;
+}
+
+/*The special CSS effect on the word "Netflix" was taken from a tutorial by @ryandsouza13 on Codepen: https://codepen.io/ryandsouza13/pen/yEBJQVb*/
+.netflixText{
+  position: absolute;
+  top: 25%;
+  right: 50%;
+  transform: translate(50%, -50%);
+  text-transform: uppercase;
+  font-family: verdana;
+  font-size: 12em;
+  font-weight: 700;
+  color: 	#db0000;
+  text-shadow:
+    1px 1px 1px #831010,
+    1px 2px 1px #831010,
+    1px 3px 1px #831010,
+    1px 4px 1px #831010,
+    1px 5px 1px #831010,
+    1px 6px 1px #831010,
+    1px 7px 1px #831010,
+    1px 8px 1px #831010,
+    1px 9px 1px #831010,
+    1px 10px 1px #831010,
+    1px 18px 6px rgba(16, 16, 16, 0.4),
+    1px 22px 10px rgba(16, 16, 16, 0.2),
+    1px 25px 35px rgba(16, 16, 16, 0.2),
+    1px 30px 60px rgba(16, 16, 16, 0.4);
+}
+
+#titleOne{
+  font-family: arial;
+  font-size: 35px;
+  text-align: center;
+  margin-top: 325px;
+  color: white;
+}
+
+#profilePic{
+  width: 200px;
+  height: 200px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.profileName{
+  width: 100%;
+  text-align: center;
+  word-spacing: 210px;
+}
+
+.profileName h3{
+  display: inline-block;
+  font-family: arial;
+}
+
+.profileName a{
+  font-size: 25px;
+  color: white;
+  text-decoration: none;
+}
+
+#profilePictures{
+  width: 100%;
+  text-align: center;
+}
+
+#sil{
+  margin-right: 15px;
+}
+
+#TA{
+  margin-left: -15px;
+}
+
+#guest{
+  margin-right: 10px;
+}
