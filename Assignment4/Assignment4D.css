@@ -329,6 +329,25 @@ body{
   margin-right: 15px;
 }
 
+.ref{
+  text-align: right;
+  margin-top: -30px;
+}
+
+#refTitle{
+  color: white;
+  font-size: 25px;
+}
+
+#refOne{
+  margin-top: -10px;
+}
+
+#refOne a, #refTwo a{
+  color: white;
+  text-decoration: none;
+}
+
 /*The javascript clock was taken from a tutorial called flexiple: https://flexiple.com/javascript-clock/ on December 3.*/
 #clockRN{
   color: white;
