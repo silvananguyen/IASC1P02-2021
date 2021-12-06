@@ -35,7 +35,31 @@ body{
   font-size: 35px;
   text-align: center;
   margin-top: 325px;
+  margin-bottom: 30px;
+}
+
+/*The typewriter effect on the word "Who's watching?" was taken from a tutorial by Geoff Graham on CSS Tricks: https://css-tricks.com/snippets/css/typewriter-effect/ on December 4.*/
+#titleOne h2 {
+  text-align: center;
   color: white;
+  overflow: hidden;
+  border-right: .15em solid grey;
+  white-space: nowrap;
+  margin: auto;
+  letter-spacing: .10em;
+  animation:
+    typing 6s steps(40, end),
+    blink-caret 0.55s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 40% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: grey }
 }
 
 #profileOne, #profileTwo, #profileThree{
