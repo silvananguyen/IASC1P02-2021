@@ -108,11 +108,10 @@ document.getElementById("dateRN").innerText = date;
 })();
 
 var life = document.getElementById("life");
-var career = document.getElementById("career");
-var inspirations = document.getElementById("inspirations");
-
 var lifeButton = document.getElementById("lifeButton");
+var career = document.getElementById("career");
 var careerButton = document.getElementById("careerButton");
+var inspirations = document.getElementById("inspirations");
 var inspirationsButton = document.getElementById("inspirationsButton");
 
 function switchOffEverything() {
@@ -126,18 +125,16 @@ function switchTolife() {
   life.style.display = "block";
 }
 
-lifeButton.onclick = switchTolife;
-
 function switchTocareer() {
   switchOffEverything();
   career.style.display = "block";
 }
-
-careerButton.onclick = switchTocareer;
 
 function switchToinspirations() {
   switchOffEverything();
   inspirations.style.display = "block";
 }
 
+lifeButton.onclick = switchTolife;
+careerButton.onclick = switchTocareer;
 inspirationsButton.onclick = switchToinspirations;
